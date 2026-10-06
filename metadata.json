@@ -1,0 +1,6 @@
+{
+  "name": "Kinesix - Sistema Experto de Planificación Deportiva",
+  "description": "Sistema profesional de planificación de entrenamiento personalizado, seguro y progresivo para preparadores físicos y entrenadores con motor de viabilidad fisiológica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
